@@ -1,4 +1,4 @@
-<h1>The portfolio of David Zemanek <br/>
+<h1>The glorious portfolio of David Zemanek <br/>
   
   <h2>So far there's not much to show off here, but just you wait and see...there will be....you'll see...</h2>
 <!--  
