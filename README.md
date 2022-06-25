@@ -1,6 +1,6 @@
 <h1>The portfolio of David Zemanek <br/>
   
-  <h2>So far not a lot to show, but wait...there's more!</h2>
+  <h2>So far there's not much to show off here, but just you wait and see...there will be....you'll see...</h2>
 <!--  
 <a href="https://github.com/kenamezd">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
